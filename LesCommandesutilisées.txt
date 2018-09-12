@@ -6,6 +6,17 @@ ls
 cd repolivrablesP2
 git init
 git status
+copie de ce fichier dans le répertoire
+ls
+git status
+git add .
+git status
+
+git commit -am "Ajout fichiers trace comprenant les cdes utilisées"
+
+git status
+
+
 
 
 
