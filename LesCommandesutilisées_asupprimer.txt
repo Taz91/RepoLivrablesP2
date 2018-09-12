@@ -1,0 +1,35 @@
+
+cd c:\\d_syc\\oc_formation_android\\dossier_oc_android\\
+ls
+git clone https://github.com/Taz91/RepoLivrablesP2.git
+ls
+cd repolivrablesP2
+git init
+git status
+copie de ce fichier dans le répertoire
+ls
+git status
+git add .
+git status
+
+git commit -am "Ajout fichiers trace comprenant les cdes utilisées"
+
+git status
+
+git commit -am "Ajout cdes au fichiers traces, modification via notepad en direct"
+git status
+notepad++ LesCommandesutilisées.txt
+
+clear
+
+ajout d'une copie de "LesCommandesutilisées.txt"
+ajout d'un fichier à supprimer après
+commit uniquement du 1er fichier copié
+commit du second fichier et vidage du fichier pour reset
+
+
+
+
+
+
+
