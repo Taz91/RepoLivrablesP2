@@ -1,0 +1,17 @@
+
+cd c:\\d_syc\\oc_formation_android\\dossier_oc_android\\
+ls
+git clone https://github.com/Taz91/RepoLivrablesP2.git
+ls
+cd repolivrablesP2
+git init
+git status
+
+
+
+
+
+
+
+
+
