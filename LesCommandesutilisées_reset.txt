@@ -20,7 +20,7 @@ git commit -am "Ajout cdes au fichiers traces, modification via notepad en direc
 git status
 notepad++ LesCommandesutilisées.txt
 
-
+clear
 
 
 
